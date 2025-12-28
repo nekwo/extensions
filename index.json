@@ -23941,6 +23941,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Manga Flix",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.mangaflix",
+    "apk": "tachiyomi-pt.mangaflix-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "MangaFlix",
+        "lang": "pt-BR",
+        "id": "6813136769153267900",
+        "baseUrl": "https://mangaflix.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Manga Livre",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangalivre",
     "apk": "tachiyomi-pt.mangalivre-v1.4.56.apk",
