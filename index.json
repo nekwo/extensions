@@ -23731,7 +23731,7 @@
     "lang": "pt-BR",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "sources": [
       {
         "name": "KuroMangas",
