@@ -23727,10 +23727,10 @@
   {
     "name": "Tachiyomi: KuroMangas",
     "pkg": "eu.kanade.tachiyomi.extension.pt.kuromangas",
-    "apk": "tachiyomi-pt.kuromangas-v1.4.6.apk",
+    "apk": "tachiyomi-pt.kuromangas-v1.4.7.apk",
     "lang": "pt-BR",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 1,
     "sources": [
       {
