@@ -2,17 +2,17 @@
   {
     "name": "Tachiyomi: AHottie",
     "pkg": "eu.kanade.tachiyomi.extension.all.ahottie",
-    "apk": "tachiyomi-all.ahottie-v1.4.1.apk",
+    "apk": "tachiyomi-all.ahottie-v1.4.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
         "name": "AHottie",
         "lang": "all",
         "id": "6289731484943315811",
-        "baseUrl": "https://ahottie.net",
+        "baseUrl": "https://ahottie.top",
         "versionId": 1
       }
     ]
@@ -259,17 +259,17 @@
   {
     "name": "Tachiyomi: BaoBua",
     "pkg": "eu.kanade.tachiyomi.extension.all.baobua",
-    "apk": "tachiyomi-all.baobua-v1.4.1.apk",
+    "apk": "tachiyomi-all.baobua-v1.4.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
         "name": "BaoBua",
         "lang": "all",
         "id": "514187608699312366",
-        "baseUrl": "https://www.baobua.net",
+        "baseUrl": "https://baobua.net",
         "versionId": 1
       }
     ]
@@ -10138,24 +10138,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Asura Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.asurascans",
-    "apk": "tachiyomi-en.asurascans-v1.4.50.apk",
-    "lang": "en",
-    "code": 50,
-    "version": "1.4.50",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Asura Scans",
-        "lang": "en",
-        "id": "6247824327199706550",
-        "baseUrl": "https://asuracomic.net",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Atsumaru",
     "pkg": "eu.kanade.tachiyomi.extension.en.atsumaru",
     "apk": "tachiyomi-en.atsumaru-v1.4.7.apk",
@@ -15314,24 +15296,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Qi Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.qiscans",
-    "apk": "tachiyomi-en.qiscans-v1.4.13.apk",
-    "lang": "en",
-    "code": 13,
-    "version": "1.4.13",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Qi Scans",
-        "lang": "en",
-        "id": "7597513901538568173",
-        "baseUrl": "https://qiscans.org",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Questionable Content",
     "pkg": "eu.kanade.tachiyomi.extension.en.questionablecontent",
     "apk": "tachiyomi-en.questionablecontent-v1.4.9.apk",
@@ -16587,24 +16551,6 @@
         "lang": "en",
         "id": "2664952092828683259",
         "baseUrl": "https://www.taadd.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Tapas",
-    "pkg": "eu.kanade.tachiyomi.extension.en.tapastic",
-    "apk": "tachiyomi-en.tapastic-v1.4.22.apk",
-    "lang": "en",
-    "code": 22,
-    "version": "1.4.22",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "Tapas",
-        "lang": "en",
-        "id": "3825434541981130345",
-        "baseUrl": "https://tapas.io",
         "versionId": 1
       }
     ]
@@ -25341,10 +25287,10 @@
   {
     "name": "Tachiyomi: Sakura Mangás",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sakuramangas",
-    "apk": "tachiyomi-pt.sakuramangas-v1.4.3.apk",
+    "apk": "tachiyomi-pt.sakuramangas-v1.4.4.apk",
     "lang": "pt-BR",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "sources": [
       {
@@ -26090,42 +26036,6 @@
         "lang": "ru",
         "id": "5227602742162454547",
         "baseUrl": "https://1.selfmanga.live",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Senkognito",
-    "pkg": "eu.kanade.tachiyomi.extension.ru.senkognito",
-    "apk": "tachiyomi-ru.senkognito-v1.4.9.apk",
-    "lang": "ru",
-    "code": 9,
-    "version": "1.4.9",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "Senkognito",
-        "lang": "ru",
-        "id": "8393977756208732343",
-        "baseUrl": "https://senkuro.me",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Senkuro",
-    "pkg": "eu.kanade.tachiyomi.extension.ru.senkuro",
-    "apk": "tachiyomi-ru.senkuro-v1.4.8.apk",
-    "lang": "ru",
-    "code": 8,
-    "version": "1.4.8",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Senkuro",
-        "lang": "ru",
-        "id": "1452500215874655811",
-        "baseUrl": "https://senkuro.me",
         "versionId": 1
       }
     ]
