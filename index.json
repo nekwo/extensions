@@ -24822,10 +24822,10 @@
   {
     "name": "Tachiyomi: Manga Livre",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangalivre",
-    "apk": "tachiyomi-pt.mangalivre-v1.4.56.apk",
+    "apk": "tachiyomi-pt.mangalivre-v1.4.57.apk",
     "lang": "pt-BR",
-    "code": 56,
-    "version": "1.4.56",
+    "code": 57,
+    "version": "1.4.57",
     "nsfw": 0,
     "sources": [
       {
@@ -25486,19 +25486,37 @@
     ]
   },
   {
+    "name": "Tachiyomi: Skky Toons",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.skkytoons",
+    "apk": "tachiyomi-pt.skkytoons-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "SkkyToons",
+        "lang": "pt-BR",
+        "id": "1311184945882398910",
+        "baseUrl": "https://www.skkyscan.fun",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Nexus Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.spectralscan",
-    "apk": "tachiyomi-pt.spectralscan-v1.4.56.apk",
+    "apk": "tachiyomi-pt.spectralscan-v1.4.57.apk",
     "lang": "pt-BR",
-    "code": 56,
-    "version": "1.4.56",
+    "code": 57,
+    "version": "1.4.57",
     "nsfw": 1,
     "sources": [
       {
         "name": "Nexus Scan",
         "lang": "pt-BR",
         "id": "5304928452449566995",
-        "baseUrl": "https://nexustoons.site",
+        "baseUrl": "https://nexustoons.com",
         "versionId": 1
       }
     ]
