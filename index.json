@@ -24894,10 +24894,10 @@
   {
     "name": "Tachiyomi: Manga Stop",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangastop",
-    "apk": "tachiyomi-pt.mangastop-v1.4.37.apk",
+    "apk": "tachiyomi-pt.mangastop-v1.4.38.apk",
     "lang": "pt-BR",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "sources": [
       {
