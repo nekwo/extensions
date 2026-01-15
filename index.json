@@ -26092,19 +26092,19 @@
     ]
   },
   {
-    "name": "Tachiyomi: Sussy Toons",
+    "name": "Tachiyomi: Verdinha",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sussyscan",
-    "apk": "tachiyomi-pt.sussyscan-v1.4.63.apk",
+    "apk": "tachiyomi-pt.sussyscan-v1.4.64.apk",
     "lang": "pt-BR",
-    "code": 63,
-    "version": "1.4.63",
+    "code": 64,
+    "version": "1.4.64",
     "nsfw": 1,
     "sources": [
       {
-        "name": "Sussy Toons",
+        "name": "Verdinha",
         "lang": "pt-BR",
         "id": "6963507464339951166",
-        "baseUrl": "https://www.sussytoons.wtf",
+        "baseUrl": "https://verdinha.wtf",
         "versionId": 1
       }
     ]
