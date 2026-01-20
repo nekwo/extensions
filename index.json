@@ -6537,59 +6537,59 @@
   {
     "name": "Tachiyomi: Manhuarm",
     "pkg": "eu.kanade.tachiyomi.extension.all.manhuarm",
-    "apk": "tachiyomi-all.manhuarm-v1.4.54.apk",
+    "apk": "tachiyomi-all.manhuarm-v1.4.55.apk",
     "lang": "all",
-    "code": 54,
-    "version": "1.4.54",
+    "code": 55,
+    "version": "1.4.55",
     "nsfw": 1,
     "sources": [
       {
         "name": "Manhuarm",
         "lang": "ar",
         "id": "797946349800265191",
-        "baseUrl": "https://manhuarmmtl.com",
+        "baseUrl": "https://manhuarmtl.com",
         "versionId": 1
       },
       {
         "name": "Manhuarm",
         "lang": "en",
         "id": "7690709834650404718",
-        "baseUrl": "https://manhuarmmtl.com",
+        "baseUrl": "https://manhuarmtl.com",
         "versionId": 1
       },
       {
         "name": "Manhuarm",
         "lang": "es",
         "id": "8547169224512757621",
-        "baseUrl": "https://manhuarmmtl.com",
+        "baseUrl": "https://manhuarmtl.com",
         "versionId": 1
       },
       {
         "name": "Manhuarm",
         "lang": "fr",
         "id": "8537659881437820380",
-        "baseUrl": "https://manhuarmmtl.com",
+        "baseUrl": "https://manhuarmtl.com",
         "versionId": 1
       },
       {
         "name": "Manhuarm",
         "lang": "id",
         "id": "6421419166134585378",
-        "baseUrl": "https://manhuarmmtl.com",
+        "baseUrl": "https://manhuarmtl.com",
         "versionId": 1
       },
       {
         "name": "Manhuarm",
         "lang": "it",
         "id": "7611240442736670513",
-        "baseUrl": "https://manhuarmmtl.com",
+        "baseUrl": "https://manhuarmtl.com",
         "versionId": 1
       },
       {
         "name": "Manhuarm",
         "lang": "pt-BR",
         "id": "5618121635049025093",
-        "baseUrl": "https://manhuarmmtl.com",
+        "baseUrl": "https://manhuarmtl.com",
         "versionId": 1
       }
     ]
@@ -9253,10 +9253,10 @@
   {
     "name": "Tachiyomi: xkcd",
     "pkg": "eu.kanade.tachiyomi.extension.all.xkcd",
-    "apk": "tachiyomi-all.xkcd-v1.4.15.apk",
+    "apk": "tachiyomi-all.xkcd-v1.4.16.apk",
     "lang": "all",
-    "code": 15,
-    "version": "1.4.15",
+    "code": 16,
+    "version": "1.4.16",
     "nsfw": 0,
     "sources": [
       {
@@ -10672,6 +10672,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Athrea Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.athreascans",
+    "apk": "tachiyomi-en.athreascans-v1.4.30.apk",
+    "lang": "en",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Athrea Scans",
+        "lang": "en",
+        "id": "427734044452073936",
+        "baseUrl": "https://athreascans.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Atsumaru",
     "pkg": "eu.kanade.tachiyomi.extension.en.atsumaru",
     "apk": "tachiyomi-en.atsumaru-v1.4.7.apk",
@@ -10854,10 +10872,10 @@
   {
     "name": "Tachiyomi: BookWalker Global",
     "pkg": "eu.kanade.tachiyomi.extension.en.bookwalker",
-    "apk": "tachiyomi-en.bookwalker-v1.4.4.apk",
+    "apk": "tachiyomi-en.bookwalker-v1.4.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "sources": [
       {
@@ -11602,17 +11620,17 @@
   {
     "name": "Tachiyomi: Eros Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.erosscans",
-    "apk": "tachiyomi-en.erosscans-v1.4.34.apk",
+    "apk": "tachiyomi-en.erosscans-v1.4.35.apk",
     "lang": "en",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "sources": [
       {
         "name": "Eros Scans",
         "lang": "en",
         "id": "1124131000360667434",
-        "baseUrl": "https://erosvoid.xyz",
+        "baseUrl": "https://erosxsun.xyz",
         "versionId": 1
       }
     ]
@@ -11704,6 +11722,24 @@
         "id": "610148674542079240",
         "baseUrl": "https://ezmanga.org",
         "versionId": 4
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Fairy Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.fairyscans",
+    "apk": "tachiyomi-en.fairyscans-v1.4.30.apk",
+    "lang": "en",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Fairy Scans",
+        "lang": "en",
+        "id": "7842496605600859779",
+        "baseUrl": "https://fairyscans.com",
+        "versionId": 1
       }
     ]
   },
@@ -11919,6 +11955,24 @@
         "lang": "en",
         "id": "3694940277826033657",
         "baseUrl": "https://gourmetsupremacy.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: greed scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.greedscans",
+    "apk": "tachiyomi-en.greedscans-v1.4.30.apk",
+    "lang": "en",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "greed scans",
+        "lang": "en",
+        "id": "288706940180085416",
+        "baseUrl": "https://greedscans.com",
         "versionId": 1
       }
     ]
@@ -15994,17 +16048,17 @@
   {
     "name": "Tachiyomi: Raven Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.ravenscans",
-    "apk": "tachiyomi-en.ravenscans-v1.4.31.apk",
+    "apk": "tachiyomi-en.ravenscans-v1.4.32.apk",
     "lang": "en",
-    "code": 31,
-    "version": "1.4.31",
-    "nsfw": 0,
+    "code": 32,
+    "version": "1.4.32",
+    "nsfw": 1,
     "sources": [
       {
         "name": "Raven Scans",
         "lang": "en",
         "id": "5160001879976399540",
-        "baseUrl": "https://ravenscans.com",
+        "baseUrl": "https://ravenscans.org",
         "versionId": 1
       }
     ]
@@ -19619,17 +19673,17 @@
   {
     "name": "Tachiyomi: Traducciones Amistosas",
     "pkg": "eu.kanade.tachiyomi.extension.es.nartag",
-    "apk": "tachiyomi-es.nartag-v1.4.48.apk",
+    "apk": "tachiyomi-es.nartag-v1.4.49.apk",
     "lang": "es",
-    "code": 48,
-    "version": "1.4.48",
+    "code": 49,
+    "version": "1.4.49",
     "nsfw": 1,
     "sources": [
       {
         "name": "Traducciones Amistosas",
         "lang": "es",
         "id": "1424373335432920755",
-        "baseUrl": "https://traduccionesamistosas.topmanhuas.org",
+        "baseUrl": "https://nartag.com",
         "versionId": 2
       }
     ]
@@ -19961,10 +20015,10 @@
   {
     "name": "Tachiyomi: Submanhwa",
     "pkg": "eu.kanade.tachiyomi.extension.es.submanhwa",
-    "apk": "tachiyomi-es.submanhwa-v1.4.1.apk",
+    "apk": "tachiyomi-es.submanhwa-v1.4.2.apk",
     "lang": "es",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
@@ -24690,10 +24744,10 @@
   {
     "name": "Tachiyomi: Cerise Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.cerisescans",
-    "apk": "tachiyomi-pt.cerisescans-v1.4.54.apk",
+    "apk": "tachiyomi-pt.cerisescans-v1.4.55.apk",
     "lang": "pt-BR",
-    "code": 54,
-    "version": "1.4.54",
+    "code": 55,
+    "version": "1.4.55",
     "nsfw": 1,
     "sources": [
       {
@@ -25516,6 +25570,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Mangas Brasuka",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.mangasbrasuka",
+    "apk": "tachiyomi-pt.mangasbrasuka-v1.4.45.apk",
+    "lang": "pt-BR",
+    "code": 45,
+    "version": "1.4.45",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Mangas Brasuka",
+        "lang": "pt-BR",
+        "id": "931953325247032113",
+        "baseUrl": "https://mangasbrasuka.com.br",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Manga Stop",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangastop",
     "apk": "tachiyomi-pt.mangastop-v1.4.38.apk",
@@ -25590,10 +25662,10 @@
   {
     "name": "Tachiyomi: Mediocre Toons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mediocretoons",
-    "apk": "tachiyomi-pt.mediocretoons-v1.4.12.apk",
+    "apk": "tachiyomi-pt.mediocretoons-v1.4.13.apk",
     "lang": "pt-BR",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 1,
     "sources": [
       {
@@ -28390,7 +28462,7 @@
         "name": "Manga Oku TR",
         "lang": "tr",
         "id": "3486302556987174977",
-        "baseUrl": "https://mangaokutr.com",
+        "baseUrl": "https://mangaokutr.net",
         "versionId": 1
       }
     ]
