@@ -26094,10 +26094,10 @@
   {
     "name": "Tachiyomi: Sakura Mangás",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sakuramangas",
-    "apk": "tachiyomi-pt.sakuramangas-v1.4.4.apk",
+    "apk": "tachiyomi-pt.sakuramangas-v1.4.5.apk",
     "lang": "pt-BR",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "sources": [
       {
