@@ -275,733 +275,733 @@
     ]
   },
   {
-    "name": "Tachiyomi: Bato.to",
+    "name": "Tachiyomi: XBatCat",
     "pkg": "eu.kanade.tachiyomi.extension.all.batoto",
-    "apk": "tachiyomi-all.batoto-v1.4.60.apk",
+    "apk": "tachiyomi-all.batoto-v1.4.61.apk",
     "lang": "all",
-    "code": 60,
-    "version": "1.4.60",
+    "code": 61,
+    "version": "1.4.61",
     "nsfw": 1,
     "sources": [
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "all",
         "id": "4531444389842992129",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "en",
         "id": "7890050626002177109",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "ar",
         "id": "5096384382752696500",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "bg",
         "id": "6495955027968241042",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "zh",
         "id": "3158884414181268012",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "cs",
         "id": "7576440018916883094",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "da",
         "id": "5316229865560945519",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "nl",
         "id": "2451829407813501910",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "fil",
         "id": "313424729392609270",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "fi",
         "id": "1251974539278082369",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "fr",
         "id": "5836611700806032846",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "de",
         "id": "139923318887989403",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "el",
         "id": "8473797648002215114",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "he",
         "id": "2408078218204857839",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "hi",
         "id": "7084618587403216116",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "hu",
         "id": "4530528320166985351",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "id",
         "id": "1720762928205210073",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "it",
         "id": "2160637426591463299",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "ja",
         "id": "5203173367987472935",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "ko",
         "id": "8427126052180576160",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "ms",
         "id": "5990851390838920547",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "pl",
         "id": "3394902802486008664",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "pt",
         "id": "6179954312892676695",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "pt-BR",
         "id": "3484603489360202582",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "ro",
         "id": "5145326243818977877",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "ru",
         "id": "5188408707919914484",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "es",
         "id": "6204540321264480489",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "es-419",
         "id": "7185350469868201379",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "sv",
         "id": "8913559243351013088",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "tr",
         "id": "6468780937168595917",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "uk",
         "id": "1782621454240367603",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "vi",
         "id": "3164440079022386695",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "af",
         "id": "9193031427501250739",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "sq",
         "id": "6847493053848422645",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "am",
         "id": "2526577153570564673",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "hy",
         "id": "1586739058301487676",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "az",
         "id": "713056016405537102",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "be",
         "id": "7232505995053152192",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "bn",
         "id": "3402500071662542228",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "bs",
         "id": "6908072148468152785",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "my",
         "id": "5762198617335159887",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "km",
         "id": "6796421298740947063",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "ca",
         "id": "1392737883785118332",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "ceb",
         "id": "5837595011776494775",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "zh-Hans",
         "id": "2818874445640189582",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "zh-Hant",
         "id": "38886079663327225",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "hr",
         "id": "7668596971407381245",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "et",
         "id": "3006949234613526276",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "fo",
         "id": "7703342981951715697",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "ka",
         "id": "5905178459829728484",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "gn",
         "id": "4894494172631551657",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "gu",
         "id": "4891408516910497422",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "ht",
         "id": "8773112916243804182",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "ha",
         "id": "8106799273220933842",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "is",
         "id": "2566480683201153375",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "ig",
         "id": "3424308522705464084",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "ga",
         "id": "3707936942181329862",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "jv",
         "id": "6913455010116693655",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "kn",
         "id": "1088655658033412867",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "kk",
         "id": "4920750007190577961",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "ku",
         "id": "5924797894030210791",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "ky",
         "id": "191250206471387059",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "lo",
         "id": "374730826849442838",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "lv",
         "id": "7483906778681041617",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "lt",
         "id": "2909322037877472903",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "lb",
         "id": "7998953198185983599",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "mk",
         "id": "4493782214399724320",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "mg",
         "id": "7844022624810291146",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "ml",
         "id": "3443092856670936701",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "mt",
         "id": "7404477799743142598",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "mi",
         "id": "8225972509362693639",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "mr",
         "id": "6030352007472109485",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "mo",
         "id": "8871355786189601023",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "mn",
         "id": "1683078263344915307",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "ne",
         "id": "128549604427027000",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "no",
         "id": "3907280050995528877",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "ny",
         "id": "5715855562377571991",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "ps",
         "id": "6105060607877949219",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "fa",
         "id": "1302226087224798096",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "rm",
         "id": "8327243820444225063",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "sm",
         "id": "2859258045373504715",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "sr",
         "id": "6589258274800936036",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "sh",
         "id": "2675056792049767704",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "st",
         "id": "7963579117812866356",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "sn",
         "id": "2403628417982139515",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "sd",
         "id": "7126242426383705161",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "si",
         "id": "2913942844788726362",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "sk",
         "id": "7182321933689697136",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "sl",
         "id": "8410771330361157651",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "so",
         "id": "2909968758031724143",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "sw",
         "id": "1981693893234457639",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "tg",
         "id": "8403246223033985015",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "ta",
         "id": "8440188015298648289",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "te",
         "id": "6410585353225177292",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "th",
         "id": "2706040171335467974",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "ti",
         "id": "5554111601105349413",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "to",
         "id": "2410241309695200602",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "tk",
         "id": "3635004776434724843",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "ur",
         "id": "7602124517732860619",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "uz",
         "id": "4555523281386098571",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "yo",
         "id": "727983903143794104",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "zu",
         "id": "3786926370127246407",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       },
       {
-        "name": "Bato.to",
+        "name": "XBatCat",
         "lang": "other",
         "id": "1897863245819012494",
-        "baseUrl": "https://ato.to",
+        "baseUrl": "https://xbat.app",
         "versionId": 1
       }
     ]
@@ -8711,10 +8711,10 @@
   {
     "name": "Tachiyomi: WeebDex",
     "pkg": "eu.kanade.tachiyomi.extension.all.weebdex",
-    "apk": "tachiyomi-all.weebdex-v1.4.5.apk",
+    "apk": "tachiyomi-all.weebdex-v1.4.6.apk",
     "lang": "all",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 1,
     "sources": [
       {
@@ -13510,10 +13510,10 @@
   {
     "name": "Tachiyomi: Manga District",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangadistrict",
-    "apk": "tachiyomi-en.mangadistrict-v1.4.58.apk",
+    "apk": "tachiyomi-en.mangadistrict-v1.4.59.apk",
     "lang": "en",
-    "code": 58,
-    "version": "1.4.58",
+    "code": 59,
+    "version": "1.4.59",
     "nsfw": 1,
     "sources": [
       {
