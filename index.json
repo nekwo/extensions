@@ -25680,10 +25680,10 @@
   {
     "name": "Tachiyomi: Mango Toons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangotoons",
-    "apk": "tachiyomi-pt.mangotoons-v1.4.5.apk",
+    "apk": "tachiyomi-pt.mangotoons-v1.4.6.apk",
     "lang": "pt-BR",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "sources": [
       {
