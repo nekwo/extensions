@@ -8274,17 +8274,17 @@
   {
     "name": "Tachiyomi: Thunder Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.thunderscans",
-    "apk": "tachiyomi-all.thunderscans-v1.4.40.apk",
+    "apk": "tachiyomi-all.thunderscans-v1.4.41.apk",
     "lang": "all",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 0,
     "sources": [
       {
         "name": "Lava Scans",
         "lang": "ar",
         "id": "3209001028102012989",
-        "baseUrl": "https://lavatoons.com",
+        "baseUrl": "https://lavascans.com",
         "versionId": 1
       },
       {
@@ -9702,17 +9702,17 @@
   {
     "name": "Tachiyomi: Mangalink",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangalink",
-    "apk": "tachiyomi-ar.mangalink-v1.4.49.apk",
+    "apk": "tachiyomi-ar.mangalink-v1.4.50.apk",
     "lang": "ar",
-    "code": 49,
-    "version": "1.4.49",
+    "code": 50,
+    "version": "1.4.50",
     "nsfw": 0,
     "sources": [
       {
         "name": "مانجا لينك",
         "lang": "ar",
         "id": "3568795724496898351",
-        "baseUrl": "https://link-manga.com",
+        "baseUrl": "https://link-manga.net",
         "versionId": 1
       }
     ]
@@ -19727,17 +19727,17 @@
   {
     "name": "Tachiyomi: MHScans",
     "pkg": "eu.kanade.tachiyomi.extension.es.mhscans",
-    "apk": "tachiyomi-es.mhscans-v1.4.54.apk",
+    "apk": "tachiyomi-es.mhscans-v1.4.55.apk",
     "lang": "es",
-    "code": 54,
-    "version": "1.4.54",
+    "code": 55,
+    "version": "1.4.55",
     "nsfw": 0,
     "sources": [
       {
         "name": "MHScans",
         "lang": "es",
         "id": "3253304651550496369",
-        "baseUrl": "https://curiosidadtop.com",
+        "baseUrl": "https://mh.inventariooculto.com",
         "versionId": 1
       }
     ]
@@ -21552,17 +21552,17 @@
   {
     "name": "Tachiyomi: Doujinku",
     "pkg": "eu.kanade.tachiyomi.extension.id.doujinku",
-    "apk": "tachiyomi-id.doujinku-v1.4.32.apk",
+    "apk": "tachiyomi-id.doujinku-v1.4.33.apk",
     "lang": "id",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 1,
     "sources": [
       {
         "name": "Doujinku",
         "lang": "id",
         "id": "4688509366795716377",
-        "baseUrl": "https://doujinku.xyz",
+        "baseUrl": "https://doujinku.org",
         "versionId": 1
       }
     ]
@@ -21732,18 +21732,18 @@
   {
     "name": "Tachiyomi: Komik Cast",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikcast",
-    "apk": "tachiyomi-id.komikcast-v1.4.71.apk",
+    "apk": "tachiyomi-id.komikcast-v1.4.72.apk",
     "lang": "id",
-    "code": 71,
-    "version": "1.4.71",
+    "code": 72,
+    "version": "1.4.72",
     "nsfw": 0,
     "sources": [
       {
         "name": "Komik Cast",
         "lang": "id",
-        "id": "972717448578983812",
-        "baseUrl": "https://komikcast05.com",
-        "versionId": 1
+        "id": "311605073216875260",
+        "baseUrl": "https://v1.komikcast.fit",
+        "versionId": 2
       }
     ]
   },
@@ -22146,17 +22146,17 @@
   {
     "name": "Tachiyomi: ManhwaDesu",
     "pkg": "eu.kanade.tachiyomi.extension.id.manhwadesu",
-    "apk": "tachiyomi-id.manhwadesu-v1.4.38.apk",
+    "apk": "tachiyomi-id.manhwadesu-v1.4.39.apk",
     "lang": "id",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 1,
     "sources": [
       {
         "name": "ManhwaDesu",
         "lang": "id",
         "id": "8258394658125354785",
-        "baseUrl": "https://manhwadesu.io",
+        "baseUrl": "https://manhwadesu.art",
         "versionId": 1
       }
     ]
@@ -22524,17 +22524,17 @@
   {
     "name": "Tachiyomi: Shinigami",
     "pkg": "eu.kanade.tachiyomi.extension.id.shinigami",
-    "apk": "tachiyomi-id.shinigami-v1.4.74.apk",
+    "apk": "tachiyomi-id.shinigami-v1.4.75.apk",
     "lang": "id",
-    "code": 74,
-    "version": "1.4.74",
+    "code": 75,
+    "version": "1.4.75",
     "nsfw": 0,
     "sources": [
       {
         "name": "Shinigami",
         "lang": "id",
         "id": "3411809758861089969",
-        "baseUrl": "https://08.shinigami.asia",
+        "baseUrl": "https://09.shinigami.asia",
         "versionId": 1
       }
     ]
@@ -24101,6 +24101,24 @@
         "lang": "ja",
         "id": "7950551186567193810",
         "baseUrl": "https://rawxjp.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: RimacomiPlus",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.rimacomiplus",
+    "apk": "tachiyomi-ja.rimacomiplus-v1.4.2.apk",
+    "lang": "ja",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "RimacomiPlus",
+        "lang": "ja",
+        "id": "8784054084293367959",
+        "baseUrl": "https://rimacomiplus.jp",
         "versionId": 1
       }
     ]
@@ -29568,10 +29586,10 @@
   {
     "name": "Tachiyomi: DocTruyen3Q",
     "pkg": "eu.kanade.tachiyomi.extension.vi.doctruyen3q",
-    "apk": "tachiyomi-vi.doctruyen3q-v1.4.23.apk",
+    "apk": "tachiyomi-vi.doctruyen3q-v1.4.24.apk",
     "lang": "vi",
-    "code": 23,
-    "version": "1.4.23",
+    "code": 24,
+    "version": "1.4.24",
     "nsfw": 1,
     "sources": [
       {
@@ -30036,17 +30054,17 @@
   {
     "name": "Tachiyomi: UmeTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.umetruyen",
-    "apk": "tachiyomi-vi.umetruyen-v1.4.7.apk",
+    "apk": "tachiyomi-vi.umetruyen-v1.4.8.apk",
     "lang": "vi",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 1,
     "sources": [
       {
         "name": "UmeTruyen",
         "lang": "vi",
         "id": "2473081822885310816",
-        "baseUrl": "https://umetruyenhay.com",
+        "baseUrl": "https://umetruyenz.org",
         "versionId": 1
       }
     ]
