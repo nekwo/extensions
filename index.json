@@ -6537,10 +6537,10 @@
   {
     "name": "Tachiyomi: Manhuarm",
     "pkg": "eu.kanade.tachiyomi.extension.all.manhuarm",
-    "apk": "tachiyomi-all.manhuarm-v1.4.55.apk",
+    "apk": "tachiyomi-all.manhuarm-v1.4.56.apk",
     "lang": "all",
-    "code": 55,
-    "version": "1.4.55",
+    "code": 56,
+    "version": "1.4.56",
     "nsfw": 1,
     "sources": [
       {
@@ -21156,10 +21156,10 @@
   {
     "name": "Tachiyomi: X-Manga",
     "pkg": "eu.kanade.tachiyomi.extension.fr.scanhentaimenu",
-    "apk": "tachiyomi-fr.scanhentaimenu-v1.4.48.apk",
+    "apk": "tachiyomi-fr.scanhentaimenu-v1.4.49.apk",
     "lang": "fr",
-    "code": 48,
-    "version": "1.4.48",
+    "code": 49,
+    "version": "1.4.49",
     "nsfw": 1,
     "sources": [
       {
@@ -24029,6 +24029,24 @@
         "lang": "ja",
         "id": "7788489411010171607",
         "baseUrl": "https://rawinu.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: RawJX",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.rawjx",
+    "apk": "tachiyomi-ja.rawjx-v1.4.45.apk",
+    "lang": "ja",
+    "code": 45,
+    "version": "1.4.45",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "RawJX",
+        "lang": "ja",
+        "id": "6002046883048377225",
+        "baseUrl": "https://rawjx.com",
         "versionId": 1
       }
     ]
