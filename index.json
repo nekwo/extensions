@@ -15548,10 +15548,10 @@
   {
     "name": "Tachiyomi: Sana Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.sanascans",
-    "apk": "tachiyomi-en.sanascans-v1.4.15.apk",
+    "apk": "tachiyomi-en.sanascans-v1.4.16.apk",
     "lang": "en",
-    "code": 15,
-    "version": "1.4.15",
+    "code": 16,
+    "version": "1.4.16",
     "nsfw": 0,
     "sources": [
       {
@@ -20181,6 +20181,24 @@
         "lang": "id",
         "id": "4383360263234319058",
         "baseUrl": "https://bacakomik.my",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Bacami",
+    "pkg": "eu.kanade.tachiyomi.extension.id.bacami",
+    "apk": "tachiyomi-id.bacami-v1.4.1.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Bacami",
+        "lang": "id",
+        "id": "2677079941490683989",
+        "baseUrl": "https://bacami.net",
         "versionId": 1
       }
     ]
