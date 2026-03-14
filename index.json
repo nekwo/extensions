@@ -22232,17 +22232,17 @@
   {
     "name": "Tachiyomi: Sagrado Império da Britannia",
     "pkg": "eu.kanade.tachiyomi.extension.pt.imperiodabritannia",
-    "apk": "tachiyomi-pt.imperiodabritannia-v1.4.52.apk",
+    "apk": "tachiyomi-pt.imperiodabritannia-v1.4.53.apk",
     "lang": "pt-BR",
-    "code": 52,
-    "version": "1.4.52",
+    "code": 53,
+    "version": "1.4.53",
     "nsfw": 0,
     "sources": [
       {
         "name": "Sagrado Império da Britannia",
         "lang": "pt-BR",
         "id": "7355004027880350247",
-        "baseUrl": "https://imperiodabritannia.com",
+        "baseUrl": "https://imperiodabritannia.net",
         "versionId": 1
       }
     ]
@@ -22592,10 +22592,10 @@
   {
     "name": "Tachiyomi: Mango Toons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangotoons",
-    "apk": "tachiyomi-pt.mangotoons-v1.4.6.apk",
+    "apk": "tachiyomi-pt.mangotoons-v1.4.7.apk",
     "lang": "pt-BR",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "sources": [
       {
