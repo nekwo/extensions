@@ -23598,18 +23598,18 @@
     ]
   },
   {
-    "name": "Tachiyomi: Yomu Mangás",
+    "name": "Tachiyomi: Yomu Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.pt.yomumangas",
-    "apk": "tachiyomi-pt.yomumangas-v1.4.4.apk",
+    "apk": "tachiyomi-pt.yomumangas-v1.4.5.apk",
     "lang": "pt-BR",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "sources": [
       {
-        "name": "Yomu Mangás",
+        "name": "Yomu Mangas",
         "lang": "pt-BR",
-        "id": "1636954121036022614",
+        "id": "46681982059614291",
         "baseUrl": "https://yomumangas.com",
         "versionId": 1
       }
