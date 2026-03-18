@@ -22230,20 +22230,20 @@
     ]
   },
   {
-    "name": "Tachiyomi: Ego Toons",
+    "name": "Tachiyomi: EgoToons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.egotoons",
-    "apk": "tachiyomi-pt.egotoons-v1.4.7.apk",
+    "apk": "tachiyomi-pt.egotoons-v1.4.8.apk",
     "lang": "pt-BR",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 1,
     "sources": [
       {
-        "name": "Ego Toons",
+        "name": "EgoToons",
         "lang": "pt-BR",
-        "id": "4749792168996703143",
-        "baseUrl": "https://www.egotoons.com",
-        "versionId": 3
+        "id": "3174440429184018296",
+        "baseUrl": "https://egotoons.com",
+        "versionId": 1
       }
     ]
   },
