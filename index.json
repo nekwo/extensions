@@ -23814,6 +23814,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Tao Sect",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.taosect",
+    "apk": "tachiyomi-pt.taosect-v1.4.20.apk",
+    "lang": "pt-BR",
+    "code": 20,
+    "version": "1.4.20",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Tao Sect",
+        "lang": "pt-BR",
+        "id": "784276282691018699",
+        "baseUrl": "https://taosect.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Tatakae Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.tatakaescan",
     "apk": "tachiyomi-pt.tatakaescan-v1.4.47.apk",
