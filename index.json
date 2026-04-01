@@ -22792,10 +22792,10 @@
   {
     "name": "Tachiyomi: Mangas Brasuka",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangasbrasuka",
-    "apk": "tachiyomi-pt.mangasbrasuka-v1.4.45.apk",
+    "apk": "tachiyomi-pt.mangasbrasuka-v1.4.46.apk",
     "lang": "pt-BR",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 1,
     "sources": [
       {
