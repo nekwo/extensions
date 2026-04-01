@@ -22936,10 +22936,10 @@
   {
     "name": "Tachiyomi: Mugiwaras Oficial",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mugiwarasoficial",
-    "apk": "tachiyomi-pt.mugiwarasoficial-v1.4.45.apk",
+    "apk": "tachiyomi-pt.mugiwarasoficial-v1.4.46.apk",
     "lang": "pt-BR",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 0,
     "sources": [
       {
