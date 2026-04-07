@@ -22329,18 +22329,18 @@
   {
     "name": "Tachiyomi: Argos Comics",
     "pkg": "eu.kanade.tachiyomi.extension.pt.argoscomics",
-    "apk": "tachiyomi-pt.argoscomics-v1.4.53.apk",
+    "apk": "tachiyomi-pt.argoscomics-v1.4.54.apk",
     "lang": "pt-BR",
-    "code": 53,
-    "version": "1.4.53",
+    "code": 54,
+    "version": "1.4.54",
     "nsfw": 0,
     "sources": [
       {
         "name": "Argos Comics",
         "lang": "pt-BR",
-        "id": "2731562656488805764",
+        "id": "1322204573705659363",
         "baseUrl": "https://aniargos.com",
-        "versionId": 2
+        "versionId": 3
       }
     ]
   },
@@ -23139,10 +23139,10 @@
   {
     "name": "Tachiyomi: Manga Flix",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangaflix",
-    "apk": "tachiyomi-pt.mangaflix-v1.4.2.apk",
+    "apk": "tachiyomi-pt.mangaflix-v1.4.3.apk",
     "lang": "pt-BR",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "sources": [
       {
@@ -24021,10 +24021,10 @@
   {
     "name": "Tachiyomi: Vegitoons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.vegitoons",
-    "apk": "tachiyomi-pt.vegitoons-v1.4.8.apk",
+    "apk": "tachiyomi-pt.vegitoons-v1.4.9.apk",
     "lang": "pt-BR",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 1,
     "sources": [
       {
