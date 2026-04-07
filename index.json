@@ -23787,10 +23787,10 @@
   {
     "name": "Tachiyomi: Nexus Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.spectralscan",
-    "apk": "tachiyomi-pt.spectralscan-v1.4.59.apk",
+    "apk": "tachiyomi-pt.spectralscan-v1.4.60.apk",
     "lang": "pt-BR",
-    "code": 59,
-    "version": "1.4.59",
+    "code": 60,
+    "version": "1.4.60",
     "nsfw": 1,
     "sources": [
       {
