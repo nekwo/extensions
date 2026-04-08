@@ -1,4 +1,4 @@
-# Extensões FelipeGFA
+# Extension modification by FelipeGFA
 
 ### Por favor, dê uma estrela ao repositório :star:
 
